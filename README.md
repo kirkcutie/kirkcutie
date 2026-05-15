@@ -3,6 +3,11 @@
 <img src="assets/pixel-red-spider-lily-banner.png" alt="Pixel cyberpunk red spider lily banner for kirkcutie" width="100%">
 
 <br>
+<br>
+
+<img src="assets/red-lily-terminal.svg" alt="Animated red spider lily terminal" width="100%">
+
+<br>
 
 <img src="https://img.shields.io/badge/Penetration%20Testing-bb0a1e?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Penetration Testing">
 <img src="https://img.shields.io/badge/Web%20Security-111111?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Web Security">
@@ -15,11 +20,11 @@
 ## whoami
 
 ```bash
-$ whoami
-kirkcutie
-
-$ focus
-penetration testing | web security | recon | practical labs
+$ ./whoami.sh
+name      : kirkcutie
+focus     : penetration testing / web security
+theme     : red spider lily x black terminal
+mindset   : test only where authorized
 ```
 
 I am building my path around penetration testing, web application security, and offensive security fundamentals. I like learning how systems behave, finding weak points safely, and turning every test into clearer notes and cleaner reports.
@@ -61,20 +66,6 @@ Reporting         [######.....] writing cleaner impact notes
 CTF / Labs        [########...] sharpening pattern recognition
 ```
 
-## Red Spider Lily Mode
-
-```text
-        @@@        @@@
-      @@   @@    @@   @@
-        @@   @@@@   @@
-          @@  ||  @@
-     @@@@@@@  ||  @@@@@@@
-          @@  ||  @@
-        @@   ||||   @@
-      @@   @@    @@   @@
-        @@@        @@@
-```
-
 ## Projects
 
 - Security practice notes and lab writeups
@@ -89,13 +80,3 @@ CTF / Labs        [########...] sharpening pattern recognition
 - Document steps clearly
 - Report real impact
 - Keep learning daily
-
----
-
-<div align="center">
-
-```text
-pixel red spider lily // quiet recon // clean reports
-```
-
-</div>

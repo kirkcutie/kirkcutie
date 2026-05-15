@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-label="Animated red spider lily terminal">
+  <rect width="900" height="180" rx="18" fill="#07090d"/>
+  <rect x="1" y="1" width="898" height="178" rx="17" fill="none" stroke="#3a0b12"/>
+  <path d="M0 44h900" stroke="#231015"/>
+  <circle cx="28" cy="22" r="6" fill="#bb0a1e"/>
+  <circle cx="50" cy="22" r="6" fill="#7a0015"/>
+  <circle cx="72" cy="22" r="6" fill="#2a2f38"/>
+
+  <g transform="translate(52 64)" fill="none" stroke-linecap="square" stroke-width="4">
+    <path d="M64 82V34" stroke="#bb0a1e"/>
+    <path d="M64 42C30 6 6 20 28 38M64 42C98 6 122 20 100 38" stroke="#d0182b">
+      <animate attributeName="stroke-opacity" values=".45;1;.45" dur="2.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M64 48C18 18 4 52 34 58M64 48C110 18 124 52 94 58" stroke="#ff324a">
+      <animate attributeName="stroke-opacity" values="1;.35;1" dur="2.7s" repeatCount="indefinite"/>
+    </path>
+    <path d="M64 56C20 50 14 86 44 78M64 56C108 50 114 86 84 78" stroke="#bb0a1e">
+      <animate attributeName="stroke-opacity" values=".35;1;.35" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <g fill="#ff5365" stroke="none">
+      <rect x="25" y="34" width="7" height="7"/>
+      <rect x="96" y="34" width="7" height="7"/>
+      <rect x="31" y="55" width="7" height="7"/>
+      <rect x="90" y="55" width="7" height="7"/>
+      <rect x="42" y="76" width="7" height="7"/>
+      <rect x="79" y="76" width="7" height="7"/>
+      <animate attributeName="opacity" values=".35;1;.35" dur="1.4s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g font-family="Consolas, 'Courier New', monospace" font-size="20">
+    <text x="230" y="78" fill="#7cffd4">$ nmap --profile kirkcutie</text>
+    <text x="230" y="112" fill="#f4f6f8">open ports: recon, web-security, labs, reports</text>
+    <text x="230" y="146" fill="#ff324a">status: learning daily</text>
+  </g>
+
+  <rect x="538" y="130" width="12" height="22" fill="#ff324a">
+    <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <g opacity=".22">
+    <path d="M700 56h126M700 84h126M700 112h126M700 140h126M700 56v84M728 56v84M756 56v84M784 56v84M812 56v84" stroke="#bb0a1e"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 14 0; 0 0" dur="5s" repeatCount="indefinite"/>
+  </g>
+</svg>
