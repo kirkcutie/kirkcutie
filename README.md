@@ -1,25 +1,19 @@
-<div align="center">
+# kirkcutie
 
-<!-- profile README for kirkcutie -->
+```text
+██╗  ██╗██╗██████╗ ██╗  ██╗ ██████╗██╗   ██╗████████╗██╗███████╗
+██║ ██╔╝██║██╔══██╗██║ ██╔╝██╔════╝██║   ██║╚══██╔══╝██║██╔════╝
+█████╔╝ ██║██████╔╝█████╔╝ ██║     ██║   ██║   ██║   ██║█████╗
+██╔═██╗ ██║██╔══██╗██╔═██╗ ██║     ██║   ██║   ██║   ██║██╔══╝
+██║  ██╗██║██║  ██║██║  ██╗╚██████╗╚██████╔╝   ██║   ██║███████╗
+╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝    ╚═╝   ╚═╝╚══════╝
+```
 
-<pre>
-        ██╗  ██╗██╗██████╗ ██╗  ██╗ ██████╗██╗   ██╗████████╗██╗███████╗
-        ██║ ██╔╝██║██╔══██╗██║ ██╔╝██╔════╝██║   ██║╚══██╔══╝██║██╔════╝
-        █████╔╝ ██║██████╔╝█████╔╝ ██║     ██║   ██║   ██║   ██║█████╗
-        ██╔═██╗ ██║██╔══██╗██╔═██╗ ██║     ██║   ██║   ██║   ██║██╔══╝
-        ██║  ██╗██║██║  ██║██║  ██╗╚██████╗╚██████╔╝   ██║   ██║███████╗
-        ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝    ╚═╝   ╚═╝╚══════╝
-</pre>
+### Penetration Testing | Web Security | Red Team Learning
 
-<h3>Penetration Testing • Web Security • Red Team Learning</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/focus-penetration%20testing-bb0a1e?style=for-the-badge" alt="Penetration testing">
-  <img src="https://img.shields.io/badge/theme-pixel%20spider%20lily-7a0015?style=for-the-badge" alt="Pixel spider lily">
-  <img src="https://img.shields.io/badge/status-learning%20daily-111111?style=for-the-badge" alt="Learning daily">
-</p>
-
-</div>
+![Penetration Testing](https://img.shields.io/badge/focus-penetration%20testing-bb0a1e?style=for-the-badge)
+![Pixel Spider Lily](https://img.shields.io/badge/theme-pixel%20spider%20lily-7a0015?style=for-the-badge)
+![Learning Daily](https://img.shields.io/badge/status-learning%20daily-111111?style=for-the-badge)
 
 ---
 
