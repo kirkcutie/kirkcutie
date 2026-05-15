@@ -11,7 +11,6 @@
 
 <img src="https://img.shields.io/badge/Penetration%20Testing-bb0a1e?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Penetration Testing">
 <img src="https://img.shields.io/badge/Web%20Security-111111?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Web Security">
-<img src="https://img.shields.io/badge/Red%20Spider%20Lily-7a0015?style=for-the-badge" alt="Red Spider Lily">
 
 </div>
 
@@ -23,7 +22,6 @@
 $ ./whoami.sh
 name      : kirkcutie
 focus     : penetration testing / web security
-theme     : red spider lily x black terminal
 mindset   : test only where authorized
 ```
 
@@ -58,13 +56,13 @@ I am building my path around penetration testing, web application security, and 
 
 ## Lab Progress
 
-```text
-Recon             [#########..] building better methodology
-Web Testing       [########...] practicing OWASP findings
-Scripting         [#######....] automating small tasks
-Reporting         [######.....] writing cleaner impact notes
-CTF / Labs        [########...] sharpening pattern recognition
-```
+| Track | Progress | Current Goal |
+| --- | --- | --- |
+| Recon | ![Recon](https://geps.dev/progress/82?dangerColor=7a0015&warningColor=bb0a1e&successColor=ff334d) | Build cleaner target maps |
+| Web Testing | ![Web Testing](https://geps.dev/progress/76?dangerColor=7a0015&warningColor=bb0a1e&successColor=ff334d) | Practice OWASP findings |
+| Scripting | ![Scripting](https://geps.dev/progress/68?dangerColor=7a0015&warningColor=bb0a1e&successColor=ff334d) | Automate small tasks |
+| Reporting | ![Reporting](https://geps.dev/progress/62?dangerColor=7a0015&warningColor=bb0a1e&successColor=ff334d) | Write clearer impact notes |
+| CTF / Labs | ![CTF Labs](https://geps.dev/progress/78?dangerColor=7a0015&warningColor=bb0a1e&successColor=ff334d) | Sharpen methodology |
 
 ## Projects
 
