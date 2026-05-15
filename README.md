@@ -1,97 +1,101 @@
-# kirkcutie
+<div align="center">
 
-```text
-██╗  ██╗██╗██████╗ ██╗  ██╗ ██████╗██╗   ██╗████████╗██╗███████╗
-██║ ██╔╝██║██╔══██╗██║ ██╔╝██╔════╝██║   ██║╚══██╔══╝██║██╔════╝
-█████╔╝ ██║██████╔╝█████╔╝ ██║     ██║   ██║   ██║   ██║█████╗
-██╔═██╗ ██║██╔══██╗██╔═██╗ ██║     ██║   ██║   ██║   ██║██╔══╝
-██║  ██╗██║██║  ██║██║  ██╗╚██████╗╚██████╔╝   ██║   ██║███████╗
-╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝    ╚═╝   ╚═╝╚══════╝
-```
+<img src="assets/pixel-red-spider-lily-banner.png" alt="Pixel cyberpunk red spider lily banner for kirkcutie" width="100%">
 
-### Penetration Testing | Web Security | Red Team Learning
+<br>
 
-![Penetration Testing](https://img.shields.io/badge/focus-penetration%20testing-bb0a1e?style=for-the-badge)
-![Pixel Spider Lily](https://img.shields.io/badge/theme-pixel%20spider%20lily-7a0015?style=for-the-badge)
-![Learning Daily](https://img.shields.io/badge/status-learning%20daily-111111?style=for-the-badge)
+<img src="https://img.shields.io/badge/Penetration%20Testing-bb0a1e?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Penetration Testing">
+<img src="https://img.shields.io/badge/Web%20Security-111111?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Web Security">
+<img src="https://img.shields.io/badge/Red%20Spider%20Lily-7a0015?style=for-the-badge" alt="Red Spider Lily">
+
+</div>
 
 ---
 
-## About Me
+## whoami
 
-I am focused on penetration testing and offensive security fundamentals, especially web application testing, recon, vulnerability analysis, and practical lab work.
+```bash
+$ whoami
+kirkcutie
 
-I like building things, breaking things safely, and documenting what I learn so each test becomes sharper than the last.
-
-```text
-red spider lily mode:
-
-        @@@        @@@
-      @@   @@    @@   @@
-        @@   @@@@   @@
-          @@  ██  @@
-     @@@@@@@  ██  @@@@@@@
-          @@  ██  @@
-        @@   ████   @@
-      @@   @@    @@   @@
-        @@@        @@@
+$ focus
+penetration testing | web security | recon | practical labs
 ```
 
-## Security Interests
+I am building my path around penetration testing, web application security, and offensive security fundamentals. I like learning how systems behave, finding weak points safely, and turning every test into clearer notes and cleaner reports.
+
+## Current Focus
 
 - Web application penetration testing
 - Reconnaissance and information gathering
-- OWASP Top 10
+- OWASP Top 10 practice
 - Authentication and session testing
 - API security testing
 - Burp Suite workflows
-- Linux, networking, and scripting
-- Capture the Flag practice
+- Linux and networking fundamentals
+- Capture the Flag labs
 - Responsible disclosure mindset
 
-## Toolbox
+## Toolkit
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/Kali-111111?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Burp%20Suite-bb0a1e?style=flat-square" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/Nmap-7a0015?style=flat-square" alt="Nmap">
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-bb0a1e?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-7a0015?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" alt="Git">
-</p>
+<div align="center">
 
-## Current Path
+<img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+<img src="https://img.shields.io/badge/Kali%20Linux-bb0a1e?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux">
+<img src="https://img.shields.io/badge/Burp%20Suite-7a0015?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite">
+<img src="https://img.shields.io/badge/Nmap-111111?style=flat-square" alt="Nmap">
+<img src="https://img.shields.io/badge/Python-bb0a1e?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/PHP-7a0015?style=flat-square&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" alt="Git">
+
+</div>
+
+## Lab Progress
 
 ```text
-Recon          █████████░░  learning deeper
-Web Testing    ████████░░░  building practice
-Scripting      ███████░░░░  automating small tasks
-Reporting      ██████░░░░░  writing clearer findings
-CTF/Labs       ████████░░░  sharpening methodology
+Recon             [#########..] building better methodology
+Web Testing       [########...] practicing OWASP findings
+Scripting         [#######....] automating small tasks
+Reporting         [######.....] writing cleaner impact notes
+CTF / Labs        [########...] sharpening pattern recognition
 ```
 
-## Featured Work
+## Red Spider Lily Mode
 
-- Portfolio projects and web builds
-- Security practice notes
-- Tools, scripts, and lab writeups coming soon
+```text
+        @@@        @@@
+      @@   @@    @@   @@
+        @@   @@@@   @@
+          @@  ||  @@
+     @@@@@@@  ||  @@@@@@@
+          @@  ||  @@
+        @@   ||||   @@
+      @@   @@    @@   @@
+        @@@        @@@
+```
 
-## Principles
+## Projects
+
+- Security practice notes and lab writeups
+- Web experiments and portfolio builds
+- Small scripts for learning and automation
+- More pentesting-focused tools coming soon
+
+## Rules I Keep
 
 - Test only where authorized
-- Learn the system before touching the exploit
-- Keep notes clear enough to reproduce
-- Report impact, not just payloads
-- Stay curious, stay careful
+- Understand before exploiting
+- Document steps clearly
+- Report real impact
+- Keep learning daily
 
 ---
 
 <div align="center">
 
 ```text
-        pixel red spider lily // quiet recon // clean reports
+pixel red spider lily // quiet recon // clean reports
 ```
 
 </div>
